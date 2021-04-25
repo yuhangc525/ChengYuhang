@@ -1,8 +1,8 @@
-
+// 转义字符的测试
 public class ChangeChar{
-	
+	//编写main函数
 	public static void main(String[] args){
-
+	// 
 	System.out.println("北京\t天津\t上海");
 
 	System.out.println("jack\nsmith\nmary");
