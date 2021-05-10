@@ -5,7 +5,7 @@ public class BinaryTest{
 	int n3 = 01010;
 	int n4 = 0x10101;
 	System.out.printf("n1:%d\n",n1);
-	System.out.printf("n2:%d\n",n2);
+	System.out.printf("n[[[[[[[2:%d\n",n2);
 	System.out.printf("n3:%d\n",n3);
 	System.out.printf("n4:%d\n",n4);
 }}
