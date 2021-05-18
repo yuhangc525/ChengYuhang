@@ -49,13 +49,13 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="应用程序.Test (1)">
-    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cheng.encap.AccountTest" />
+  <component name="RunManager" selected="应用程序.Faqi">
+    <configuration name="ExtendExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cheng.extend_.exercise.ExtendExercise01" />
       <module name="chapter08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cheng.encap.*" />
+          <option name="PATTERN" value="com.cheng.extend_.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encap01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cheng.encap.Encap01" />
+    <configuration name="Faqi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Faqi" />
+      <module name="chapter08" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Override01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cheng.override_.Override01" />
       <module name="chapter08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cheng.encap.*" />
+          <option name="PATTERN" value="com.cheng.override_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,19 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Import01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Import01" />
-      <module name="chapter08" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cheng.extend_.improve_.Test" />
+    <configuration name="OverrideExercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cheng.override_.exercise.OverrideExercise" />
       <module name="chapter08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cheng.extend_.improve_.*" />
+          <option name="PATTERN" value="com.cheng.override_.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.use.Test" />
+      <option name="MAIN_CLASS_NAME" value="com.cheng.extend_.exercise.Test" />
       <module name="chapter08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.use.*" />
+          <option name="PATTERN" value="com.cheng.extend_.exercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Test (1)" />
-        <item itemvalue="应用程序.AccountTest" />
-        <item itemvalue="应用程序.Encap01" />
-        <item itemvalue="应用程序.Import01" />
+        <item itemvalue="应用程序.Faqi" />
+        <item itemvalue="应用程序.OverrideExercise" />
+        <item itemvalue="应用程序.Override01" />
         <item itemvalue="应用程序.Test" />
+        <item itemvalue="应用程序.ExtendExercise01" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +142,11 @@
       <updated>1621071885919</updated>
       <workItem from="1621071887079" duration="5920000" />
       <workItem from="1621127362151" duration="5836000" />
-      <workItem from="1621171942134" duration="723000" />
+      <workItem from="1621171942134" duration="820000" />
+      <workItem from="1621177399498" duration="2613000" />
+      <workItem from="1621215202748" duration="2897000" />
+      <workItem from="1621262466689" duration="3980000" />
+      <workItem from="1621338878773" duration="336000" />
     </task>
     <servers />
   </component>
