@@ -49,20 +49,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
-  <component name="RunManager" selected="应用程序.Faqi">
-    <configuration name="ExtendExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cheng.extend_.exercise.ExtendExercise01" />
-      <module name="chapter08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cheng.extend_.exercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.PloyObject">
     <configuration name="Faqi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Faqi" />
       <module name="chapter08" />
@@ -96,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PloyObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cheng.poly_.PloyObject" />
+      <module name="chapter08" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cheng.poly_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cheng.extend_.exercise.Test" />
       <module name="chapter08" />
@@ -109,26 +109,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.PloyObject" />
         <item itemvalue="应用程序.Faqi" />
         <item itemvalue="应用程序.OverrideExercise" />
         <item itemvalue="应用程序.Override01" />
         <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.ExtendExercise01" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +144,8 @@
       <workItem from="1621177399498" duration="2613000" />
       <workItem from="1621215202748" duration="2897000" />
       <workItem from="1621262466689" duration="3980000" />
-      <workItem from="1621338878773" duration="336000" />
+      <workItem from="1621338878773" duration="4389000" />
+      <workItem from="1621424435189" duration="963000" />
     </task>
     <servers />
   </component>
