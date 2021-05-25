@@ -47,15 +47,15 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="debugger.stepping" />
   </component>
-  <component name="RunManager" selected="应用程序.EqualsExercise01">
-    <configuration name="Equals01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cheng.object_.Equals01" />
+  <component name="RunManager" selected="应用程序.Homework13">
+    <configuration name="Homework02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterExercise.Homework02" />
       <module name="chapter08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cheng.object_.*" />
+          <option name="PATTERN" value="chapterExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualsExercise01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cheng.object_.EqualsExercise01" />
+    <configuration name="Homework04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterExercise.Homework04" />
       <module name="chapter08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cheng.object_.*" />
+          <option name="PATTERN" value="chapterExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ployarr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cheng.poly_.polyarr.Ployarr" />
+    <configuration name="Homework05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterExercise.Homework05.Homework05" />
       <module name="chapter08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cheng.poly_.polyarr.*" />
+          <option name="PATTERN" value="chapterExercise.Homework05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolyDetail" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cheng.poly_.PolyDetail" />
+    <configuration name="Homework08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterExercise.Homework08.Homework08" />
       <module name="chapter08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cheng.poly_.*" />
+          <option name="PATTERN" value="chapterExercise.Homework08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cheng.poly_.ployarameter.Test" />
+    <configuration name="Homework13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapterExercise.Homework13.Homework13" />
       <module name="chapter08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cheng.poly_.ployarameter.*" />
+          <option name="PATTERN" value="chapterExercise.Homework13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.EqualsExercise01" />
-        <item itemvalue="应用程序.Equals01" />
-        <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.Ployarr" />
-        <item itemvalue="应用程序.PolyDetail" />
+        <item itemvalue="应用程序.Homework13" />
+        <item itemvalue="应用程序.Homework08" />
+        <item itemvalue="应用程序.Homework05" />
+        <item itemvalue="应用程序.Homework04" />
+        <item itemvalue="应用程序.Homework02" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +153,9 @@
       <workItem from="1621338878773" duration="4389000" />
       <workItem from="1621424435189" duration="1574000" />
       <workItem from="1621777889678" duration="5282000" />
-      <workItem from="1621865857123" duration="3204000" />
+      <workItem from="1621865857123" duration="4801000" />
+      <workItem from="1621905288702" duration="18575000" />
+      <workItem from="1621943801187" duration="2702000" />
     </task>
     <servers />
   </component>
